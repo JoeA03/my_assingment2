@@ -5,7 +5,7 @@ immune = input('Is your immune system too weak? Yes/No ').title().strip() == 'Ye
 risk = age or chronic or immune
 
 if risk:
-print('You are in risky group')
+  print('You are in risky group')
 else:
-print('You are not in risky group')
+  print('You are not in risky group')
 
