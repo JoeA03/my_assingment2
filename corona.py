@@ -9,3 +9,4 @@ if risk:
 else:
   print('You are not in risky group')
 
+print("Hi guys")
